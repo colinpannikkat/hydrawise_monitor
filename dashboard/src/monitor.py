@@ -168,10 +168,15 @@ class Monitor:
                 },
                 parse_dates=["datetime"]
             )
-            data = pd.concat([old_data, data], ignore_index=True).drop_duplicates()
+            data = pd.concat(
+                [old_data, data],
+                ignore_index=True
+                ).drop_duplicates(
+                    ['zone_num', 'zone', 'datetime']
+                )
             data.to_csv(save_file, index=False)
         else:
-            os.makedirs(self.save_path)
+            os.makedirs(self.save_path, exist_ok=True)
             data.to_csv(save_file, index=False)
 
         if ret_df:
