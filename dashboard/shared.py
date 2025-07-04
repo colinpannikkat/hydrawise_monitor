@@ -12,9 +12,7 @@ def get_df():
     df = m.get_flow_data_in_time_range(cid)
     df = m.find_outliers(df)
 
-    m.save_data(df, "data.csv")
-
-    return df
+    return m.save_data(df, "data.csv", ret_df=True)
 
 
 logging.info("Fetching irrigation data.")

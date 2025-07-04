@@ -148,13 +148,31 @@ class Monitor:
         data['outlier_mad'] = data['mad_z-score'] > self.mad_threshold
         return data
 
-    def save_data(self, data: pd.DataFrame, filename: str):
+    def save_data(self, data: pd.DataFrame, filename: str, ret_df: bool = True) -> None | pd.DataFrame:
         save_file = Path(os.path.join(self.save_path, filename))
 
         if save_file.exists():
-            old_data = pd.read_csv(save_file)
+            old_data = pd.read_csv(
+                save_file,
+                dtype={
+                    "zone_num": "Int64",
+                    "zone": "string",
+                    "gpm": "float",
+                    "gallons": "float",
+                    "runtime": "float",
+                    "note": "string",
+                    "std_z-score": "float",
+                    "outlier_std": "boolean",
+                    "mad_z-score": "float",
+                    "outlier_mad": "boolean"
+                },
+                parse_dates=["datetime"]
+            )
             data = pd.concat([old_data, data], ignore_index=True).drop_duplicates()
             data.to_csv(save_file, index=False)
         else:
             os.makedirs(self.save_path)
             data.to_csv(save_file, index=False)
+
+        if ret_df:
+            return data
