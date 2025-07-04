@@ -12,7 +12,7 @@ class Auth():
     def __init__(self, username: str, password: str):
         self._get_bearer_token(username, password)
 
-    def _get_bearer_token(self, username: str, password: str) -> str:
+    def _get_bearer_token(self, username: str, password: str) -> None:
         response = requests.post(
             ACCESS_TOKEN_URL,
             data={
