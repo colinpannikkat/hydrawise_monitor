@@ -12,7 +12,6 @@ from shiny import App, render, reactive, ui, run_app
 import matplotlib.pyplot as plt
 import pandas as pd
 import logging
-import webbrowser
 
 zone_group = (
     df[['zone', 'zone_num']]
@@ -67,7 +66,8 @@ app_ui = ui.page_fluid(
             style="padding: 20px;"
         ),
         ui.output_plot("total_irrigation_over_time"),
-        ui.output_plot("total_runtime_over_time")
+        ui.output_plot("total_runtime_over_time"),
+        height=500
     ),
     ui.tags.style(
         """
@@ -183,5 +183,4 @@ def server(input, output, session):
 
 
 app = App(app_ui, server)
-webbrowser.open(f"http://127.0.0.1:{PORT}")
-run_app(app, port=PORT)
+run_app(app, port=PORT, launch_browser=True)
