@@ -13,6 +13,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import logging
 
+import webbrowser
+
 zone_group = (
     df[['zone', 'zone_num']]
     .drop_duplicates()
@@ -183,4 +185,5 @@ def server(input, output, session):
 
 
 app = App(app_ui, server)
-run_app(app, port=PORT, launch_browser=True)
+webbrowser.open(f"http://127.0.0.1:{PORT}")
+run_app(app, port=PORT)
