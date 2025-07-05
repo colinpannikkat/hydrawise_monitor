@@ -52,7 +52,7 @@ app_ui = ui.page_fluid(
             style="padding: 20px;"
         ),
         ui.output_plot("irrigation_for_zone"),
-        style="padding: 30px;"
+        style="padding: 30px;",
     ),
     ui.layout_sidebar(
         ui.sidebar(
@@ -67,7 +67,7 @@ app_ui = ui.page_fluid(
         ),
         ui.output_plot("total_irrigation_over_time"),
         ui.output_plot("total_runtime_over_time"),
-        height=500
+        height=1200
     ),
     ui.tags.style(
         """
