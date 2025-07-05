@@ -75,6 +75,22 @@ def filter_dataframe_by_date(df: pd.DataFrame, start: date, end: date) -> pd.Dat
     return df[mask]
 
 
+def filter_dataframe_by_zone(df: pd.DataFrame, zone_nums: list) -> pd.DataFrame:
+    return df[df['zone_num'].isin(zone_nums)]
+
+
+def get_data_range_available(df: pd.DataFrame) -> pd.DataFrame:
+    min, max = get_date_range_str_tuple(df)
+    return f"Data start: {min}\n" \
+           f"Data end: {max}"
+
+
+def get_date_range_str_tuple(df: pd.DataFrame) -> tuple[str, str]:
+    min = pd.to_datetime(df['datetime'].min()).strftime('%Y-%m-%d')
+    max = pd.to_datetime(df['datetime'].max()).strftime('%Y-%m-%d')
+    return min, max
+
+
 def get_env_variables():
 
     load_dotenv()
