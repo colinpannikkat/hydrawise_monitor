@@ -6,14 +6,13 @@ from src.helpers import (
     get_data_range_available,
     get_date_range_str_tuple
 )
+from src.const import PORT
 
 from shiny import App, render, reactive, ui, run_app
 import matplotlib.pyplot as plt
 import pandas as pd
 import logging
 import webbrowser
-
-PORT = 5253
 
 zone_group = (
     df[['zone', 'zone_num']]
