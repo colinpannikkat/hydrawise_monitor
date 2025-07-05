@@ -4,6 +4,8 @@ API_URL = "https://app.hydrawise.com/api/v2/graph?appVersion=hydrawise-web-clien
 CLIENT_SECRET = "zn3CrjglwNV1"
 CLIENT_ID = "hydrawise_app"
 
+PORT = 5253
+
 GET_FLOW_DATA_QUERY = """
 query getChartReportByType(
     $controllerId: Int!,
