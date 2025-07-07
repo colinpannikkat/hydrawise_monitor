@@ -42,7 +42,7 @@ app_ui = ui.page_fluid(
             ui.input_switch("outliers", "Toggle Outliers", value=True),
             ui.input_date_range(
                 "date_range",
-                "Date Range (Date selected must be within start and end range)",
+                "Date Range",
                 start=get_one_month_back_in_datetime(),
                 end=max_date,
                 min=min_date,
