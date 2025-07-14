@@ -47,13 +47,17 @@ class Monitor:
 
         def get_runtime_from_note(note: str):
             if 'minutes' in note:
-                return int(entry["note"].split("Run time: ")[1].split(" minutes")[0])
+                return int(note.split("Run time: ")[1].split(" minutes")[0])
             elif 'minute' in note:
-                return int(entry["note"].split("Run time: ")[1].split(" minute")[0])
+                return int(note.split("Run time: ")[1].split(" minute")[0])
             elif 'hour' in note:
-                return int(entry["note"].split("Run time: ")[1].split(" hour")[0]) * 60
-            elif "seconds" in note:
-                return int(entry["note"].split("Run time: ")[1].split(" seconds")[0]) / 60
+                return int(note.split("Run time: ")[1].split(" hour")[0]) * 60
+            elif 'seconds' in note:
+                return int(note.split("Run time: ")[1].split(" seconds")[0]) / 60
+            elif 'second' in note:
+                return int(note.split("Run time: ")[1].split(" second")[0]) / 60
+            else:
+                raise (Exception(f"Cannot parse note: {note}"))
 
             return 0
 
