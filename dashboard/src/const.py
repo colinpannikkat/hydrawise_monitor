@@ -32,6 +32,10 @@ query getChartReportByType(
       }
       __typename
     }
+    zones {
+        id
+        name
+    }
     __typename
   }
 }
