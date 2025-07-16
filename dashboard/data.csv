@@ -1,175 +1,175 @@
-zone_num,zone,datetime,gpm,gallons,runtime,note,std_z-score,outlier_std,mad_z-score,outlier_mad
-2, Drip northside property line pool street side/ future behind pool,2025-06-05 05:00:00+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
-9, Hut lawn 3  spray heads,2025-06-05 05:11:02+00:00,2.6,26,10,Run time: 10 minutes,-1.5238786355189275,False,-3.0,False
-1,Drip upper planters area behind shed,2025-06-07 02:01:02+00:00,4.142857142857143,87,21,Run time: 21 minutes,-0.4082482904638644,False,0.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-07 02:23:02+00:00,3.5833333333333335,43,12,Run time: 12 minutes,-0.3986102382742208,False,-1.0,False
-3,Pool drip / North ,2025-06-07 02:36:00+00:00,3.066666666666667,46,15,Run time: 15 minutes,1.2532720512615485,False,2.9999999999999933,False
-4,Pool Drip house side,2025-06-07 02:52:02+00:00,5.933333333333334,89,15,Run time: 15 minutes,-1.8330602057402023,False,0.0,False
-5,Lawn top to driveway South / front street drip,2025-06-07 03:08:02+00:00,5.523809523809524,116,21,Run time: 21 minutes,1.1172679496131996,False,2.2500000000000187,False
-6,Lawn front yard North half / Inside street side,2025-06-07 03:30:00+00:00,7.428571428571429,156,21,Run time: 21 minutes,0.3535533905932654,False,0.0,False
-7,House Garage Side / Left of steps,2025-06-07 03:52:03+00:00,4.809523809523809,101,21,Run time: 21 minutes,0.7778174593051986,False,1.0,False
-8,drip house south side / driveway ,2025-06-07 04:14:01+00:00,7.476190476190476,157,21,Run time: 21 minutes,-0.4037608372393542,False,0.0,False
-9, Hut lawn 3  spray heads,2025-06-07 04:36:01+00:00,2.6666666666666665,40,15,Run time: 15 minutes,0.4571635906556611,False,1.0,False
-10,pool refill / blue cable,2025-06-08 01:58:31+00:00,8.766666666666667,263,30,Run time: 30 minutes,-1.1338934190277083,False,-4.000000000000213,False
-1,Drip upper planters area behind shed,2025-06-10 02:01:01+00:00,4.107142857142857,115,28,Run time: 28 minutes,-1.632993161855488,False,-2.0000000000000497,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-10 02:30:00+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
-3,Pool drip / North ,2025-06-10 02:41:00+00:00,2.9,58,20,Run time: 20 minutes,0.0154724944600182,False,0.4999999999999966,False
-4,Pool Drip house side,2025-06-10 03:02:01+00:00,6.0,120,20,Run time: 20 minutes,-0.1571194462062954,False,0.0,False
-5,Lawn top to driveway South / front street drip,2025-06-10 03:23:01+00:00,5.464285714285714,153,28,Run time: 28 minutes,-0.5379438275915451,False,-0.2499999999999813,False
-6,Lawn front yard North half / Inside street side,2025-06-10 03:52:01+00:00,7.428571428571429,208,28,Run time: 28 minutes,0.3535533905932654,False,0.0,False
-7,House Garage Side / Left of steps,2025-06-10 04:21:00+00:00,4.785714285714286,134,28,Run time: 28 minutes,-0.3535533905932798,False,-1.0,False
-8,drip house south side / driveway ,2025-06-10 04:50:01+00:00,7.464285714285714,209,28,Run time: 28 minutes,-0.8652017940843157,False,-1.0,False
-9, Hut lawn 3  spray heads,2025-06-10 05:19:01+00:00,2.65,53,20,Run time: 20 minutes,-0.038096965887986,False,0.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-12 05:00:00+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
-9, Hut lawn 3  spray heads,2025-06-12 05:11:00+00:00,2.7,27,10,Run time: 10 minutes,1.4476847037429683,False,3.000000000000026,False
-1,Drip upper planters area behind shed,2025-06-14 02:00:59+00:00,4.190476190476191,88,21,Run time: 21 minutes,1.2247448713915932,False,2.6666666666666665,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-14 02:22:58+00:00,3.5833333333333335,43,12,Run time: 12 minutes,-0.3986102382742208,False,-1.0,False
-3,Pool drip / North ,2025-06-14 02:35:59+00:00,3.1333333333333333,47,15,Run time: 15 minutes,1.7483918739821576,False,3.9999999999999862,False
-4,Pool Drip house side,2025-06-14 02:52:00+00:00,6.066666666666666,91,15,Run time: 15 minutes,1.5188213133276118,False,0.0,False
-5,Lawn top to driveway South / front street drip,2025-06-14 03:07:59+00:00,5.476190476190476,115,21,Run time: 21 minutes,-0.2069014721505962,False,0.2500000000000186,False
-6,Lawn front yard North half / Inside street side,2025-06-14 03:29:58+00:00,7.428571428571429,156,21,Run time: 21 minutes,0.3535533905932654,False,0.0,False
-7,House Garage Side / Left of steps,2025-06-14 03:51:59+00:00,4.809523809523809,101,21,Run time: 21 minutes,0.7778174593051986,False,1.0,False
-8,drip house south side / driveway ,2025-06-14 04:14:00+00:00,7.523809523809524,158,21,Run time: 21 minutes,1.4420029901404918,False,4.0,False
-9, Hut lawn 3  spray heads,2025-06-14 04:35:59+00:00,2.6666666666666665,40,15,Run time: 15 minutes,0.4571635906556611,False,1.0,False
-10,pool refill / blue cable,2025-06-14 19:01:07+00:00,8.85,531,60,Run time: 1 hour,0.7559289460184184,False,1.0,False
-1,Drip upper planters area behind shed,2025-06-17 02:01:00+00:00,4.142857142857143,116,28,Run time: 28 minutes,-0.4082482904638644,False,0.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-17 02:30:00+00:00,3.9,39,10,Run time: 10 minutes,-0.1235402191261511,False,18.000000000000053,True
-3,Pool drip / North ,2025-06-17 02:41:00+00:00,2.8,56,20,Run time: 20 minutes,-0.7272072396208991,False,-1.0,False
-4,Pool Drip house side,2025-06-17 03:02:01+00:00,6.05,121,20,Run time: 20 minutes,1.099836123444135,False,0.0,False
-5,Lawn top to driveway South / front street drip,2025-06-17 03:23:01+00:00,5.464285714285714,153,28,Run time: 28 minutes,-0.5379438275915451,False,-0.2499999999999813,False
-6,Lawn front yard North half / Inside street side,2025-06-17 03:51:59+00:00,7.428571428571429,208,28,Run time: 28 minutes,0.3535533905932654,False,0.0,False
-7,House Garage Side / Left of steps,2025-06-17 04:21:00+00:00,4.785714285714286,134,28,Run time: 28 minutes,-0.3535533905932798,False,-1.0,False
-8,drip house south side / driveway ,2025-06-17 04:50:00+00:00,7.5,210,28,Run time: 28 minutes,0.5191210764505687,False,2.0,False
-9, Hut lawn 3  spray heads,2025-06-17 05:19:00+00:00,2.65,53,20,Run time: 20 minutes,-0.038096965887986,False,0.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-19 05:00:01+00:00,3.7,37,10,Run time: 10 minutes,-0.2972686522723002,False,6.000000000000027,False
-9, Hut lawn 3  spray heads,2025-06-19 05:11:00+00:00,2.6,26,10,Run time: 10 minutes,-1.5238786355189275,False,-3.0,False
-1,Drip upper planters area behind shed,2025-06-21 02:00:59+00:00,4.142857142857143,87,21,Run time: 21 minutes,-0.4082482904638644,False,0.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-21 02:22:59+00:00,3.5833333333333335,43,12,Run time: 12 minutes,-0.3986102382742208,False,-1.0,False
-3,Pool drip / North ,2025-06-21 02:35:59+00:00,2.8666666666666667,43,15,Run time: 15 minutes,-0.2320874169002864,False,0.0,False
-4,Pool Drip house side,2025-06-21 02:51:59+00:00,6.0,90,15,Run time: 15 minutes,-0.1571194462062954,False,0.0,False
-5,Lawn top to driveway South / front street drip,2025-06-21 03:07:59+00:00,5.523809523809524,116,21,Run time: 21 minutes,1.1172679496131996,False,2.2500000000000187,False
-6,Lawn front yard North half / Inside street side,2025-06-21 03:29:59+00:00,7.428571428571429,156,21,Run time: 21 minutes,0.3535533905932654,False,0.0,False
-7,House Garage Side / Left of steps,2025-06-21 03:51:59+00:00,4.809523809523809,101,21,Run time: 21 minutes,0.7778174593051986,False,1.0,False
-8,drip house south side / driveway ,2025-06-21 04:13:59+00:00,7.523809523809524,158,21,Run time: 21 minutes,1.4420029901404918,False,4.0,False
-9, Hut lawn 3  spray heads,2025-06-21 04:36:00+00:00,2.6666666666666665,40,15,Run time: 15 minutes,0.4571635906556611,False,1.0,False
-10,pool refill / blue cable,2025-06-21 06:40:06+00:00,8.833333333333334,530,60,Run time: 1 hour,0.3779644730092092,False,0.0,False
-1,Drip upper planters area behind shed,2025-06-24 02:01:02+00:00,4.142857142857143,116,28,Run time: 28 minutes,-0.4082482904638644,False,0.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-24 02:30:00+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
-3,Pool drip / North ,2025-06-24 02:41:01+00:00,2.75,55,20,Run time: 20 minutes,-1.098547106661356,False,-1.7499999999999951,False
-4,Pool Drip house side,2025-06-24 03:02:02+00:00,6.0,120,20,Run time: 20 minutes,-0.1571194462062954,False,0.0,False
-5,Lawn top to driveway South / front street drip,2025-06-24 03:22:59+00:00,5.464285714285714,153,28,Run time: 28 minutes,-0.5379438275915451,False,-0.2499999999999813,False
-6,Lawn front yard North half / Inside street side,2025-06-24 03:52:01+00:00,7.392857142857143,207,28,Run time: 28 minutes,-2.4748737341529283,False,0.0,False
-7,House Garage Side / Left of steps,2025-06-24 04:21:00+00:00,4.75,133,28,Run time: 28 minutes,-2.050609665440997,False,-4.0,False
-8,drip house south side / driveway ,2025-06-24 04:50:00+00:00,7.464285714285714,209,28,Run time: 28 minutes,-0.8652017940843157,False,-1.0,False
-9, Hut lawn 3  spray heads,2025-06-24 05:19:00+00:00,2.65,53,20,Run time: 20 minutes,-0.038096965887986,False,0.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-26 05:00:00+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
-9, Hut lawn 3  spray heads,2025-06-26 05:11:00+00:00,2.6,26,10,Run time: 10 minutes,-1.5238786355189275,False,-3.0,False
-1,Drip upper planters area behind shed,2025-06-28 02:01:00+00:00,4.190476190476191,88,21,Run time: 21 minutes,1.2247448713915932,False,2.6666666666666665,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-28 02:23:00+00:00,6.083333333333333,73,12,Run time: 12 minutes,1.7729951760526466,False,149.0000000000005,True
-3,Pool drip / North ,2025-06-28 02:36:00+00:00,2.8666666666666667,43,15,Run time: 15 minutes,-0.2320874169002864,False,0.0,False
-4,Pool Drip house side,2025-06-28 02:51:58+00:00,6.0,90,15,Run time: 15 minutes,-0.1571194462062954,False,0.0,False
-5,Lawn top to driveway South / front street drip,2025-06-28 03:07:58+00:00,5.523809523809524,116,21,Run time: 21 minutes,1.1172679496131996,False,2.2500000000000187,False
-6,Lawn front yard North half / Inside street side,2025-06-28 03:29:59+00:00,7.428571428571429,156,21,Run time: 21 minutes,0.3535533905932654,False,0.0,False
-7,House Garage Side / Left of steps,2025-06-28 03:51:59+00:00,4.809523809523809,101,21,Run time: 21 minutes,0.7778174593051986,False,1.0,False
-8,drip house south side / driveway ,2025-06-28 04:13:59+00:00,7.476190476190476,157,21,Run time: 21 minutes,-0.4037608372393542,False,0.0,False
-9, Hut lawn 3  spray heads,2025-06-28 04:35:58+00:00,2.6666666666666665,40,15,Run time: 15 minutes,0.4571635906556611,False,1.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-30 17:42:26+00:00,7.5,15,2,Run time: 2 minutes,3.0035715775045384,True,234.0000000000008,True
-2, Drip northside property line pool street side/ future behind pool,2025-06-30 17:46:34+00:00,3.5,35,10,Run time: 10 minutes,-0.4709970854184498,False,-6.000000000000027,False
-1,Drip upper planters area behind shed,2025-07-01 02:01:00+00:00,4.178571428571429,117,28,Run time: 28 minutes,0.8164965809277288,False,2.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-07-01 02:30:01+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
-3,Pool drip / North ,2025-07-01 02:40:59+00:00,2.8,56,20,Run time: 20 minutes,-0.7272072396208991,False,-1.0,False
-4,Pool Drip house side,2025-07-01 03:02:00+00:00,6.0,120,20,Run time: 20 minutes,-0.1571194462062954,False,0.0,False
-5,Lawn top to driveway South / front street drip,2025-07-01 03:23:02+00:00,5.428571428571429,152,28,Run time: 28 minutes,-1.5310708939143922,False,-1.7499999999999811,False
-6,Lawn front yard North half / Inside street side,2025-07-01 03:51:59+00:00,7.428571428571429,208,28,Run time: 28 minutes,0.3535533905932654,False,0.0,False
-7,House Garage Side / Left of steps,2025-07-01 04:21:01+00:00,4.785714285714286,134,28,Run time: 28 minutes,-0.3535533905932798,False,-1.0,False
-8,drip house south side / driveway ,2025-07-01 04:49:59+00:00,7.464285714285714,209,28,Run time: 28 minutes,-0.8652017940843157,False,-1.0,False
-9, Hut lawn 3  spray heads,2025-07-01 05:19:01+00:00,2.65,53,20,Run time: 20 minutes,-0.038096965887986,False,0.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-07-03 05:00:01+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
-9, Hut lawn 3  spray heads,2025-07-03 05:11:01+00:00,2.7,27,10,Run time: 10 minutes,1.4476847037429683,False,3.000000000000026,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-05 05:00:00+00:00,3.6,36,10,Run time: 10 minutes,-0.38413286884537506,False,0.0,False
-9, Hut lawn 3  spray heads,2025-06-05 05:11:02+00:00,2.6,26,10,Run time: 10 minutes,-1.5238786355189275,False,-3.0,False
-1,Drip upper planters area behind shed,2025-06-07 02:01:02+00:00,4.142857142857143,87,21,Run time: 21 minutes,-0.4082482904638644,False,0.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-07 02:23:02+00:00,3.5833333333333335,43,12,Run time: 12 minutes,-0.3986102382742208,False,-1.0,False
-3,Pool drip / North ,2025-06-07 02:36:00+00:00,3.066666666666667,46,15,Run time: 15 minutes,1.2532720512615483,False,2.9999999999999933,False
-4,Pool Drip house side,2025-06-07 02:52:02+00:00,5.933333333333334,89,15,Run time: 15 minutes,-1.8330602057402026,False,0.0,False
-5,Lawn top to driveway South / front street drip,2025-06-07 03:08:02+00:00,5.523809523809524,116,21,Run time: 21 minutes,1.1172679496131996,False,2.2500000000000187,False
-6,Lawn front yard North half / Inside street side,2025-06-07 03:30:00+00:00,7.428571428571429,156,21,Run time: 21 minutes,0.35355339059326546,False,0.0,False
-7,House Garage Side / Left of steps,2025-06-07 03:52:03+00:00,4.809523809523809,101,21,Run time: 21 minutes,0.7778174593051986,False,1.0,False
-8,drip house south side / driveway ,2025-06-07 04:14:01+00:00,7.476190476190476,157,21,Run time: 21 minutes,-0.4037608372393542,False,0.0,False
-9, Hut lawn 3  spray heads,2025-06-07 04:36:01+00:00,2.6666666666666665,40,15,Run time: 15 minutes,0.4571635906556611,False,1.0,False
-10,pool refill / blue cable,2025-06-08 01:58:31+00:00,8.766666666666667,263,30,Run time: 30 minutes,-1.1338934190277083,False,-4.000000000000213,False
-1,Drip upper planters area behind shed,2025-06-10 02:01:01+00:00,4.107142857142857,115,28,Run time: 28 minutes,-1.632993161855488,False,-2.0000000000000497,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-10 02:30:00+00:00,3.6,36,10,Run time: 10 minutes,-0.38413286884537506,False,0.0,False
-3,Pool drip / North ,2025-06-10 02:41:00+00:00,2.9,58,20,Run time: 20 minutes,0.015472494460018218,False,0.49999999999999667,False
-4,Pool Drip house side,2025-06-10 03:02:01+00:00,6.0,120,20,Run time: 20 minutes,-0.15711944620629542,False,0.0,False
-5,Lawn top to driveway South / front street drip,2025-06-10 03:23:01+00:00,5.464285714285714,153,28,Run time: 28 minutes,-0.5379438275915451,False,-0.24999999999998135,False
-6,Lawn front yard North half / Inside street side,2025-06-10 03:52:01+00:00,7.428571428571429,208,28,Run time: 28 minutes,0.35355339059326546,False,0.0,False
-7,House Garage Side / Left of steps,2025-06-10 04:21:00+00:00,4.785714285714286,134,28,Run time: 28 minutes,-0.3535533905932798,False,-1.0,False
-8,drip house south side / driveway ,2025-06-10 04:50:01+00:00,7.464285714285714,209,28,Run time: 28 minutes,-0.8652017940843157,False,-1.0,False
-9, Hut lawn 3  spray heads,2025-06-10 05:19:01+00:00,2.65,53,20,Run time: 20 minutes,-0.038096965887986056,False,0.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-12 05:00:00+00:00,3.6,36,10,Run time: 10 minutes,-0.38413286884537506,False,0.0,False
-9, Hut lawn 3  spray heads,2025-06-12 05:11:00+00:00,2.7,27,10,Run time: 10 minutes,1.4476847037429685,False,3.0000000000000266,False
-1,Drip upper planters area behind shed,2025-06-14 02:00:59+00:00,4.190476190476191,88,21,Run time: 21 minutes,1.2247448713915932,False,2.6666666666666665,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-14 02:22:58+00:00,3.5833333333333335,43,12,Run time: 12 minutes,-0.3986102382742208,False,-1.0,False
-3,Pool drip / North ,2025-06-14 02:35:59+00:00,3.1333333333333333,47,15,Run time: 15 minutes,1.7483918739821576,False,3.9999999999999867,False
-4,Pool Drip house side,2025-06-14 02:52:00+00:00,6.066666666666666,91,15,Run time: 15 minutes,1.5188213133276118,False,0.0,False
-5,Lawn top to driveway South / front street drip,2025-06-14 03:07:59+00:00,5.476190476190476,115,21,Run time: 21 minutes,-0.2069014721505962,False,0.25000000000001865,False
-6,Lawn front yard North half / Inside street side,2025-06-14 03:29:58+00:00,7.428571428571429,156,21,Run time: 21 minutes,0.35355339059326546,False,0.0,False
-7,House Garage Side / Left of steps,2025-06-14 03:51:59+00:00,4.809523809523809,101,21,Run time: 21 minutes,0.7778174593051986,False,1.0,False
-8,drip house south side / driveway ,2025-06-14 04:14:00+00:00,7.523809523809524,158,21,Run time: 21 minutes,1.4420029901404918,False,4.0,False
-9, Hut lawn 3  spray heads,2025-06-14 04:35:59+00:00,2.6666666666666665,40,15,Run time: 15 minutes,0.4571635906556611,False,1.0,False
-10,pool refill / blue cable,2025-06-14 19:01:07+00:00,8.85,531,60,Run time: 1 hour,0.7559289460184184,False,1.0,False
-1,Drip upper planters area behind shed,2025-06-17 02:01:00+00:00,4.142857142857143,116,28,Run time: 28 minutes,-0.4082482904638644,False,0.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-17 02:30:00+00:00,3.9,39,10,Run time: 10 minutes,-0.12354021912615111,False,18.000000000000053,True
-3,Pool drip / North ,2025-06-17 02:41:00+00:00,2.8,56,20,Run time: 20 minutes,-0.7272072396208991,False,-1.0,False
-4,Pool Drip house side,2025-06-17 03:02:01+00:00,6.05,121,20,Run time: 20 minutes,1.099836123444135,False,0.0,False
-5,Lawn top to driveway South / front street drip,2025-06-17 03:23:01+00:00,5.464285714285714,153,28,Run time: 28 minutes,-0.5379438275915451,False,-0.24999999999998135,False
-6,Lawn front yard North half / Inside street side,2025-06-17 03:51:59+00:00,7.428571428571429,208,28,Run time: 28 minutes,0.35355339059326546,False,0.0,False
-7,House Garage Side / Left of steps,2025-06-17 04:21:00+00:00,4.785714285714286,134,28,Run time: 28 minutes,-0.3535533905932798,False,-1.0,False
-8,drip house south side / driveway ,2025-06-17 04:50:00+00:00,7.5,210,28,Run time: 28 minutes,0.5191210764505687,False,2.0,False
-9, Hut lawn 3  spray heads,2025-06-17 05:19:00+00:00,2.65,53,20,Run time: 20 minutes,-0.038096965887986056,False,0.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-19 05:00:01+00:00,3.7,37,10,Run time: 10 minutes,-0.29726865227230026,False,6.000000000000027,False
-9, Hut lawn 3  spray heads,2025-06-19 05:11:00+00:00,2.6,26,10,Run time: 10 minutes,-1.5238786355189275,False,-3.0,False
-1,Drip upper planters area behind shed,2025-06-21 02:00:59+00:00,4.142857142857143,87,21,Run time: 21 minutes,-0.4082482904638644,False,0.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-21 02:22:59+00:00,3.5833333333333335,43,12,Run time: 12 minutes,-0.3986102382742208,False,-1.0,False
-3,Pool drip / North ,2025-06-21 02:35:59+00:00,2.8666666666666667,43,15,Run time: 15 minutes,-0.23208741690028645,False,0.0,False
-4,Pool Drip house side,2025-06-21 02:51:59+00:00,6.0,90,15,Run time: 15 minutes,-0.15711944620629542,False,0.0,False
-5,Lawn top to driveway South / front street drip,2025-06-21 03:07:59+00:00,5.523809523809524,116,21,Run time: 21 minutes,1.1172679496131996,False,2.2500000000000187,False
-6,Lawn front yard North half / Inside street side,2025-06-21 03:29:59+00:00,7.428571428571429,156,21,Run time: 21 minutes,0.35355339059326546,False,0.0,False
-7,House Garage Side / Left of steps,2025-06-21 03:51:59+00:00,4.809523809523809,101,21,Run time: 21 minutes,0.7778174593051986,False,1.0,False
-8,drip house south side / driveway ,2025-06-21 04:13:59+00:00,7.523809523809524,158,21,Run time: 21 minutes,1.4420029901404918,False,4.0,False
-9, Hut lawn 3  spray heads,2025-06-21 04:36:00+00:00,2.6666666666666665,40,15,Run time: 15 minutes,0.4571635906556611,False,1.0,False
-10,pool refill / blue cable,2025-06-21 06:40:06+00:00,8.833333333333334,530,60,Run time: 1 hour,0.3779644730092092,False,0.0,False
-1,Drip upper planters area behind shed,2025-06-24 02:01:02+00:00,4.142857142857143,116,28,Run time: 28 minutes,-0.4082482904638644,False,0.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-24 02:30:00+00:00,3.6,36,10,Run time: 10 minutes,-0.38413286884537506,False,0.0,False
-3,Pool drip / North ,2025-06-24 02:41:01+00:00,2.75,55,20,Run time: 20 minutes,-1.0985471066613561,False,-1.7499999999999951,False
-4,Pool Drip house side,2025-06-24 03:02:02+00:00,6.0,120,20,Run time: 20 minutes,-0.15711944620629542,False,0.0,False
-5,Lawn top to driveway South / front street drip,2025-06-24 03:22:59+00:00,5.464285714285714,153,28,Run time: 28 minutes,-0.5379438275915451,False,-0.24999999999998135,False
-6,Lawn front yard North half / Inside street side,2025-06-24 03:52:01+00:00,7.392857142857143,207,28,Run time: 28 minutes,-2.4748737341529283,False,0.0,False
-7,House Garage Side / Left of steps,2025-06-24 04:21:00+00:00,4.75,133,28,Run time: 28 minutes,-2.050609665440997,False,-4.0,False
-8,drip house south side / driveway ,2025-06-24 04:50:00+00:00,7.464285714285714,209,28,Run time: 28 minutes,-0.8652017940843157,False,-1.0,False
-9, Hut lawn 3  spray heads,2025-06-24 05:19:00+00:00,2.65,53,20,Run time: 20 minutes,-0.038096965887986056,False,0.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-26 05:00:00+00:00,3.6,36,10,Run time: 10 minutes,-0.38413286884537506,False,0.0,False
-9, Hut lawn 3  spray heads,2025-06-26 05:11:00+00:00,2.6,26,10,Run time: 10 minutes,-1.5238786355189275,False,-3.0,False
-1,Drip upper planters area behind shed,2025-06-28 02:01:00+00:00,4.190476190476191,88,21,Run time: 21 minutes,1.2247448713915932,False,2.6666666666666665,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-28 02:23:00+00:00,6.083333333333333,73,12,Run time: 12 minutes,1.7729951760526466,False,149.0000000000005,True
-3,Pool drip / North ,2025-06-28 02:36:00+00:00,2.8666666666666667,43,15,Run time: 15 minutes,-0.23208741690028645,False,0.0,False
-4,Pool Drip house side,2025-06-28 02:51:58+00:00,6.0,90,15,Run time: 15 minutes,-0.15711944620629542,False,0.0,False
-5,Lawn top to driveway South / front street drip,2025-06-28 03:07:58+00:00,5.523809523809524,116,21,Run time: 21 minutes,1.1172679496131996,False,2.2500000000000187,False
-6,Lawn front yard North half / Inside street side,2025-06-28 03:29:59+00:00,7.428571428571429,156,21,Run time: 21 minutes,0.35355339059326546,False,0.0,False
-7,House Garage Side / Left of steps,2025-06-28 03:51:59+00:00,4.809523809523809,101,21,Run time: 21 minutes,0.7778174593051986,False,1.0,False
-8,drip house south side / driveway ,2025-06-28 04:13:59+00:00,7.476190476190476,157,21,Run time: 21 minutes,-0.4037608372393542,False,0.0,False
-9, Hut lawn 3  spray heads,2025-06-28 04:35:58+00:00,2.6666666666666665,40,15,Run time: 15 minutes,0.4571635906556611,False,1.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-06-30 17:42:26+00:00,7.5,15,2,Run time: 2 minutes,3.0035715775045384,True,234.00000000000082,True
-2, Drip northside property line pool street side/ future behind pool,2025-06-30 17:46:34+00:00,3.5,35,10,Run time: 10 minutes,-0.47099708541844987,False,-6.000000000000027,False
-1,Drip upper planters area behind shed,2025-07-01 02:01:00+00:00,4.178571428571429,117,28,Run time: 28 minutes,0.8164965809277288,False,2.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-07-01 02:30:01+00:00,3.6,36,10,Run time: 10 minutes,-0.38413286884537506,False,0.0,False
-3,Pool drip / North ,2025-07-01 02:40:59+00:00,2.8,56,20,Run time: 20 minutes,-0.7272072396208991,False,-1.0,False
-4,Pool Drip house side,2025-07-01 03:02:00+00:00,6.0,120,20,Run time: 20 minutes,-0.15711944620629542,False,0.0,False
-5,Lawn top to driveway South / front street drip,2025-07-01 03:23:02+00:00,5.428571428571429,152,28,Run time: 28 minutes,-1.5310708939143922,False,-1.7499999999999813,False
-6,Lawn front yard North half / Inside street side,2025-07-01 03:51:59+00:00,7.428571428571429,208,28,Run time: 28 minutes,0.35355339059326546,False,0.0,False
-7,House Garage Side / Left of steps,2025-07-01 04:21:01+00:00,4.785714285714286,134,28,Run time: 28 minutes,-0.3535533905932798,False,-1.0,False
-8,drip house south side / driveway ,2025-07-01 04:49:59+00:00,7.464285714285714,209,28,Run time: 28 minutes,-0.8652017940843157,False,-1.0,False
-9, Hut lawn 3  spray heads,2025-07-01 05:19:01+00:00,2.65,53,20,Run time: 20 minutes,-0.038096965887986056,False,0.0,False
-2, Drip northside property line pool street side/ future behind pool,2025-07-03 05:00:01+00:00,3.6,36,10,Run time: 10 minutes,-0.38413286884537506,False,0.0,False
-9, Hut lawn 3  spray heads,2025-07-03 05:11:01+00:00,2.7,27,10,Run time: 10 minutes,1.4476847037429685,False,3.0000000000000266,False
+zone_id,zone_num,zone,datetime,gpm,gallons,runtime,note,std_z-score,outlier_std,mad_z-score,outlier_mad
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-05 05:00:00+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-05 05:11:02+00:00,2.6,26,10,Run time: 10 minutes,-1.5238786355189275,False,-3.0,False
+8865476,1,Drip upper planters area behind shed,2025-06-07 02:01:02+00:00,4.142857142857143,87,21,Run time: 21 minutes,-0.4082482904638644,False,0.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-07 02:23:02+00:00,3.5833333333333335,43,12,Run time: 12 minutes,-0.3986102382742208,False,-1.0,False
+8936985,3,Pool drip / North,2025-06-07 02:36:00+00:00,3.066666666666667,46,15,Run time: 15 minutes,1.2532720512615485,False,2.9999999999999933,False
+8937002,4,Pool Drip house side,2025-06-07 02:52:02+00:00,5.933333333333334,89,15,Run time: 15 minutes,-1.8330602057402023,False,0.0,False
+8937129,5,Lawn top to driveway South / front street drip,2025-06-07 03:08:02+00:00,5.523809523809524,116,21,Run time: 21 minutes,1.1172679496131996,False,2.2500000000000187,False
+8937132,6,Lawn front yard North half / Inside street side,2025-06-07 03:30:00+00:00,7.428571428571429,156,21,Run time: 21 minutes,0.3535533905932654,False,0.0,False
+8937135,7,House Garage Side,2025-06-07 03:52:03+00:00,4.809523809523809,101,21,Run time: 21 minutes,0.7778174593051986,False,1.0,False
+8937139,8,drip house south side / South Driveway,2025-06-07 04:14:01+00:00,7.476190476190476,157,21,Run time: 21 minutes,-0.4037608372393542,False,0.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-07 04:36:01+00:00,2.6666666666666665,40,15,Run time: 15 minutes,0.4571635906556611,False,1.0,False
+9269772,10,pool refill / blue cable,2025-06-08 01:58:31+00:00,8.766666666666667,263,30,Run time: 30 minutes,-1.1338934190277083,False,-4.000000000000213,False
+8865476,1,Drip upper planters area behind shed,2025-06-10 02:01:01+00:00,4.107142857142857,115,28,Run time: 28 minutes,-1.632993161855488,False,-2.0000000000000497,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-10 02:30:00+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
+8936985,3,Pool drip / North,2025-06-10 02:41:00+00:00,2.9,58,20,Run time: 20 minutes,0.0154724944600182,False,0.4999999999999966,False
+8937002,4,Pool Drip house side,2025-06-10 03:02:01+00:00,6.0,120,20,Run time: 20 minutes,-0.1571194462062954,False,0.0,False
+8937129,5,Lawn top to driveway South / front street drip,2025-06-10 03:23:01+00:00,5.464285714285714,153,28,Run time: 28 minutes,-0.5379438275915451,False,-0.2499999999999813,False
+8937132,6,Lawn front yard North half / Inside street side,2025-06-10 03:52:01+00:00,7.428571428571429,208,28,Run time: 28 minutes,0.3535533905932654,False,0.0,False
+8937135,7,House Garage Side,2025-06-10 04:21:00+00:00,4.785714285714286,134,28,Run time: 28 minutes,-0.3535533905932798,False,-1.0,False
+8937139,8,drip house south side / South Driveway,2025-06-10 04:50:01+00:00,7.464285714285714,209,28,Run time: 28 minutes,-0.8652017940843157,False,-1.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-10 05:19:01+00:00,2.65,53,20,Run time: 20 minutes,-0.038096965887986,False,0.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-12 05:00:00+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-12 05:11:00+00:00,2.7,27,10,Run time: 10 minutes,1.4476847037429683,False,3.000000000000026,False
+8865476,1,Drip upper planters area behind shed,2025-06-14 02:00:59+00:00,4.190476190476191,88,21,Run time: 21 minutes,1.2247448713915932,False,2.6666666666666665,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-14 02:22:58+00:00,3.5833333333333335,43,12,Run time: 12 minutes,-0.3986102382742208,False,-1.0,False
+8936985,3,Pool drip / North,2025-06-14 02:35:59+00:00,3.1333333333333333,47,15,Run time: 15 minutes,1.7483918739821576,False,3.9999999999999862,False
+8937002,4,Pool Drip house side,2025-06-14 02:52:00+00:00,6.066666666666666,91,15,Run time: 15 minutes,1.5188213133276118,False,0.0,False
+8937129,5,Lawn top to driveway South / front street drip,2025-06-14 03:07:59+00:00,5.476190476190476,115,21,Run time: 21 minutes,-0.2069014721505962,False,0.2500000000000186,False
+8937132,6,Lawn front yard North half / Inside street side,2025-06-14 03:29:58+00:00,7.428571428571429,156,21,Run time: 21 minutes,0.3535533905932654,False,0.0,False
+8937135,7,House Garage Side,2025-06-14 03:51:59+00:00,4.809523809523809,101,21,Run time: 21 minutes,0.7778174593051986,False,1.0,False
+8937139,8,drip house south side / South Driveway,2025-06-14 04:14:00+00:00,7.523809523809524,158,21,Run time: 21 minutes,1.4420029901404918,False,4.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-14 04:35:59+00:00,2.6666666666666665,40,15,Run time: 15 minutes,0.4571635906556611,False,1.0,False
+9269772,10,pool refill / blue cable,2025-06-14 19:01:07+00:00,8.85,531,60,Run time: 1 hour,0.7559289460184184,False,1.0,False
+8865476,1,Drip upper planters area behind shed,2025-06-17 02:01:00+00:00,4.142857142857143,116,28,Run time: 28 minutes,-0.4082482904638644,False,0.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-17 02:30:00+00:00,3.9,39,10,Run time: 10 minutes,-0.1235402191261511,False,18.000000000000053,True
+8936985,3,Pool drip / North,2025-06-17 02:41:00+00:00,2.8,56,20,Run time: 20 minutes,-0.7272072396208991,False,-1.0,False
+8937002,4,Pool Drip house side,2025-06-17 03:02:01+00:00,6.05,121,20,Run time: 20 minutes,1.099836123444135,False,0.0,False
+8937129,5,Lawn top to driveway South / front street drip,2025-06-17 03:23:01+00:00,5.464285714285714,153,28,Run time: 28 minutes,-0.5379438275915451,False,-0.2499999999999813,False
+8937132,6,Lawn front yard North half / Inside street side,2025-06-17 03:51:59+00:00,7.428571428571429,208,28,Run time: 28 minutes,0.3535533905932654,False,0.0,False
+8937135,7,House Garage Side,2025-06-17 04:21:00+00:00,4.785714285714286,134,28,Run time: 28 minutes,-0.3535533905932798,False,-1.0,False
+8937139,8,drip house south side / South Driveway,2025-06-17 04:50:00+00:00,7.5,210,28,Run time: 28 minutes,0.5191210764505687,False,2.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-17 05:19:00+00:00,2.65,53,20,Run time: 20 minutes,-0.038096965887986,False,0.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-19 05:00:01+00:00,3.7,37,10,Run time: 10 minutes,-0.2972686522723002,False,6.000000000000027,False
+8937140,9,Hut lawn 3  spray heads,2025-06-19 05:11:00+00:00,2.6,26,10,Run time: 10 minutes,-1.5238786355189275,False,-3.0,False
+8865476,1,Drip upper planters area behind shed,2025-06-21 02:00:59+00:00,4.142857142857143,87,21,Run time: 21 minutes,-0.4082482904638644,False,0.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-21 02:22:59+00:00,3.5833333333333335,43,12,Run time: 12 minutes,-0.3986102382742208,False,-1.0,False
+8936985,3,Pool drip / North,2025-06-21 02:35:59+00:00,2.8666666666666667,43,15,Run time: 15 minutes,-0.2320874169002864,False,0.0,False
+8937002,4,Pool Drip house side,2025-06-21 02:51:59+00:00,6.0,90,15,Run time: 15 minutes,-0.1571194462062954,False,0.0,False
+8937129,5,Lawn top to driveway South / front street drip,2025-06-21 03:07:59+00:00,5.523809523809524,116,21,Run time: 21 minutes,1.1172679496131996,False,2.2500000000000187,False
+8937132,6,Lawn front yard North half / Inside street side,2025-06-21 03:29:59+00:00,7.428571428571429,156,21,Run time: 21 minutes,0.3535533905932654,False,0.0,False
+8937135,7,House Garage Side,2025-06-21 03:51:59+00:00,4.809523809523809,101,21,Run time: 21 minutes,0.7778174593051986,False,1.0,False
+8937139,8,drip house south side / South Driveway,2025-06-21 04:13:59+00:00,7.523809523809524,158,21,Run time: 21 minutes,1.4420029901404918,False,4.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-21 04:36:00+00:00,2.6666666666666665,40,15,Run time: 15 minutes,0.4571635906556611,False,1.0,False
+9269772,10,pool refill / blue cable,2025-06-21 06:40:06+00:00,8.833333333333334,530,60,Run time: 1 hour,0.3779644730092092,False,0.0,False
+8865476,1,Drip upper planters area behind shed,2025-06-24 02:01:02+00:00,4.142857142857143,116,28,Run time: 28 minutes,-0.4082482904638644,False,0.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-24 02:30:00+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
+8936985,3,Pool drip / North,2025-06-24 02:41:01+00:00,2.75,55,20,Run time: 20 minutes,-1.098547106661356,False,-1.7499999999999951,False
+8937002,4,Pool Drip house side,2025-06-24 03:02:02+00:00,6.0,120,20,Run time: 20 minutes,-0.1571194462062954,False,0.0,False
+8937129,5,Lawn top to driveway South / front street drip,2025-06-24 03:22:59+00:00,5.464285714285714,153,28,Run time: 28 minutes,-0.5379438275915451,False,-0.2499999999999813,False
+8937132,6,Lawn front yard North half / Inside street side,2025-06-24 03:52:01+00:00,7.392857142857143,207,28,Run time: 28 minutes,-2.4748737341529283,False,0.0,False
+8937135,7,House Garage Side,2025-06-24 04:21:00+00:00,4.75,133,28,Run time: 28 minutes,-2.050609665440997,False,-4.0,False
+8937139,8,drip house south side / South Driveway,2025-06-24 04:50:00+00:00,7.464285714285714,209,28,Run time: 28 minutes,-0.8652017940843157,False,-1.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-24 05:19:00+00:00,2.65,53,20,Run time: 20 minutes,-0.038096965887986,False,0.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-26 05:00:00+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-26 05:11:00+00:00,2.6,26,10,Run time: 10 minutes,-1.5238786355189275,False,-3.0,False
+8865476,1,Drip upper planters area behind shed,2025-06-28 02:01:00+00:00,4.190476190476191,88,21,Run time: 21 minutes,1.2247448713915932,False,2.6666666666666665,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-28 02:23:00+00:00,6.083333333333333,73,12,Run time: 12 minutes,1.7729951760526466,False,149.0000000000005,True
+8936985,3,Pool drip / North,2025-06-28 02:36:00+00:00,2.8666666666666667,43,15,Run time: 15 minutes,-0.2320874169002864,False,0.0,False
+8937002,4,Pool Drip house side,2025-06-28 02:51:58+00:00,6.0,90,15,Run time: 15 minutes,-0.1571194462062954,False,0.0,False
+8937129,5,Lawn top to driveway South / front street drip,2025-06-28 03:07:58+00:00,5.523809523809524,116,21,Run time: 21 minutes,1.1172679496131996,False,2.2500000000000187,False
+8937132,6,Lawn front yard North half / Inside street side,2025-06-28 03:29:59+00:00,7.428571428571429,156,21,Run time: 21 minutes,0.3535533905932654,False,0.0,False
+8937135,7,House Garage Side,2025-06-28 03:51:59+00:00,4.809523809523809,101,21,Run time: 21 minutes,0.7778174593051986,False,1.0,False
+8937139,8,drip house south side / South Driveway,2025-06-28 04:13:59+00:00,7.476190476190476,157,21,Run time: 21 minutes,-0.4037608372393542,False,0.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-28 04:35:58+00:00,2.6666666666666665,40,15,Run time: 15 minutes,0.4571635906556611,False,1.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-30 17:42:26+00:00,7.5,15,2,Run time: 2 minutes,3.0035715775045384,True,234.0000000000008,True
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-30 17:46:34+00:00,3.5,35,10,Run time: 10 minutes,-0.4709970854184498,False,-6.000000000000027,False
+8865476,1,Drip upper planters area behind shed,2025-07-01 02:01:00+00:00,4.178571428571429,117,28,Run time: 28 minutes,0.8164965809277288,False,2.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-07-01 02:30:01+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
+8936985,3,Pool drip / North,2025-07-01 02:40:59+00:00,2.8,56,20,Run time: 20 minutes,-0.7272072396208991,False,-1.0,False
+8937002,4,Pool Drip house side,2025-07-01 03:02:00+00:00,6.0,120,20,Run time: 20 minutes,-0.1571194462062954,False,0.0,False
+8937129,5,Lawn top to driveway South / front street drip,2025-07-01 03:23:02+00:00,5.428571428571429,152,28,Run time: 28 minutes,-1.5310708939143922,False,-1.7499999999999811,False
+8937132,6,Lawn front yard North half / Inside street side,2025-07-01 03:51:59+00:00,7.428571428571429,208,28,Run time: 28 minutes,0.3535533905932654,False,0.0,False
+8937135,7,House Garage Side,2025-07-01 04:21:01+00:00,4.785714285714286,134,28,Run time: 28 minutes,-0.3535533905932798,False,-1.0,False
+8937139,8,drip house south side / South Driveway,2025-07-01 04:49:59+00:00,7.464285714285714,209,28,Run time: 28 minutes,-0.8652017940843157,False,-1.0,False
+8937140,9,Hut lawn 3  spray heads,2025-07-01 05:19:01+00:00,2.65,53,20,Run time: 20 minutes,-0.038096965887986,False,0.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-07-03 05:00:01+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
+8937140,9,Hut lawn 3  spray heads,2025-07-03 05:11:01+00:00,2.7,27,10,Run time: 10 minutes,1.4476847037429683,False,3.000000000000026,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-05 05:00:00+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-05 05:11:02+00:00,2.6,26,10,Run time: 10 minutes,-1.5238786355189275,False,-3.0,False
+8865476,1,Drip upper planters area behind shed,2025-06-07 02:01:02+00:00,4.142857142857143,87,21,Run time: 21 minutes,-0.4082482904638644,False,0.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-07 02:23:02+00:00,3.5833333333333335,43,12,Run time: 12 minutes,-0.3986102382742208,False,-1.0,False
+8936985,3,Pool drip / North,2025-06-07 02:36:00+00:00,3.066666666666667,46,15,Run time: 15 minutes,1.2532720512615485,False,2.9999999999999933,False
+8937002,4,Pool Drip house side,2025-06-07 02:52:02+00:00,5.933333333333334,89,15,Run time: 15 minutes,-1.8330602057402023,False,0.0,False
+8937129,5,Lawn top to driveway South / front street drip,2025-06-07 03:08:02+00:00,5.523809523809524,116,21,Run time: 21 minutes,1.1172679496131996,False,2.2500000000000187,False
+8937132,6,Lawn front yard North half / Inside street side,2025-06-07 03:30:00+00:00,7.428571428571429,156,21,Run time: 21 minutes,0.3535533905932654,False,0.0,False
+8937135,7,House Garage Side,2025-06-07 03:52:03+00:00,4.809523809523809,101,21,Run time: 21 minutes,0.7778174593051986,False,1.0,False
+8937139,8,drip house south side / South Driveway,2025-06-07 04:14:01+00:00,7.476190476190476,157,21,Run time: 21 minutes,-0.4037608372393542,False,0.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-07 04:36:01+00:00,2.6666666666666665,40,15,Run time: 15 minutes,0.4571635906556611,False,1.0,False
+9269772,10,pool refill / blue cable,2025-06-08 01:58:31+00:00,8.766666666666667,263,30,Run time: 30 minutes,-1.1338934190277083,False,-4.000000000000213,False
+8865476,1,Drip upper planters area behind shed,2025-06-10 02:01:01+00:00,4.107142857142857,115,28,Run time: 28 minutes,-1.632993161855488,False,-2.0000000000000497,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-10 02:30:00+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
+8936985,3,Pool drip / North,2025-06-10 02:41:00+00:00,2.9,58,20,Run time: 20 minutes,0.0154724944600182,False,0.4999999999999966,False
+8937002,4,Pool Drip house side,2025-06-10 03:02:01+00:00,6.0,120,20,Run time: 20 minutes,-0.1571194462062954,False,0.0,False
+8937129,5,Lawn top to driveway South / front street drip,2025-06-10 03:23:01+00:00,5.464285714285714,153,28,Run time: 28 minutes,-0.5379438275915451,False,-0.2499999999999813,False
+8937132,6,Lawn front yard North half / Inside street side,2025-06-10 03:52:01+00:00,7.428571428571429,208,28,Run time: 28 minutes,0.3535533905932654,False,0.0,False
+8937135,7,House Garage Side,2025-06-10 04:21:00+00:00,4.785714285714286,134,28,Run time: 28 minutes,-0.3535533905932798,False,-1.0,False
+8937139,8,drip house south side / South Driveway,2025-06-10 04:50:01+00:00,7.464285714285714,209,28,Run time: 28 minutes,-0.8652017940843157,False,-1.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-10 05:19:01+00:00,2.65,53,20,Run time: 20 minutes,-0.038096965887986,False,0.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-12 05:00:00+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-12 05:11:00+00:00,2.7,27,10,Run time: 10 minutes,1.4476847037429683,False,3.000000000000026,False
+8865476,1,Drip upper planters area behind shed,2025-06-14 02:00:59+00:00,4.190476190476191,88,21,Run time: 21 minutes,1.2247448713915932,False,2.6666666666666665,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-14 02:22:58+00:00,3.5833333333333335,43,12,Run time: 12 minutes,-0.3986102382742208,False,-1.0,False
+8936985,3,Pool drip / North,2025-06-14 02:35:59+00:00,3.1333333333333333,47,15,Run time: 15 minutes,1.7483918739821576,False,3.9999999999999862,False
+8937002,4,Pool Drip house side,2025-06-14 02:52:00+00:00,6.066666666666666,91,15,Run time: 15 minutes,1.5188213133276118,False,0.0,False
+8937129,5,Lawn top to driveway South / front street drip,2025-06-14 03:07:59+00:00,5.476190476190476,115,21,Run time: 21 minutes,-0.2069014721505962,False,0.2500000000000186,False
+8937132,6,Lawn front yard North half / Inside street side,2025-06-14 03:29:58+00:00,7.428571428571429,156,21,Run time: 21 minutes,0.3535533905932654,False,0.0,False
+8937135,7,House Garage Side,2025-06-14 03:51:59+00:00,4.809523809523809,101,21,Run time: 21 minutes,0.7778174593051986,False,1.0,False
+8937139,8,drip house south side / South Driveway,2025-06-14 04:14:00+00:00,7.523809523809524,158,21,Run time: 21 minutes,1.4420029901404918,False,4.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-14 04:35:59+00:00,2.6666666666666665,40,15,Run time: 15 minutes,0.4571635906556611,False,1.0,False
+9269772,10,pool refill / blue cable,2025-06-14 19:01:07+00:00,8.85,531,60,Run time: 1 hour,0.7559289460184184,False,1.0,False
+8865476,1,Drip upper planters area behind shed,2025-06-17 02:01:00+00:00,4.142857142857143,116,28,Run time: 28 minutes,-0.4082482904638644,False,0.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-17 02:30:00+00:00,3.9,39,10,Run time: 10 minutes,-0.1235402191261511,False,18.000000000000053,True
+8936985,3,Pool drip / North,2025-06-17 02:41:00+00:00,2.8,56,20,Run time: 20 minutes,-0.7272072396208991,False,-1.0,False
+8937002,4,Pool Drip house side,2025-06-17 03:02:01+00:00,6.05,121,20,Run time: 20 minutes,1.099836123444135,False,0.0,False
+8937129,5,Lawn top to driveway South / front street drip,2025-06-17 03:23:01+00:00,5.464285714285714,153,28,Run time: 28 minutes,-0.5379438275915451,False,-0.2499999999999813,False
+8937132,6,Lawn front yard North half / Inside street side,2025-06-17 03:51:59+00:00,7.428571428571429,208,28,Run time: 28 minutes,0.3535533905932654,False,0.0,False
+8937135,7,House Garage Side,2025-06-17 04:21:00+00:00,4.785714285714286,134,28,Run time: 28 minutes,-0.3535533905932798,False,-1.0,False
+8937139,8,drip house south side / South Driveway,2025-06-17 04:50:00+00:00,7.5,210,28,Run time: 28 minutes,0.5191210764505687,False,2.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-17 05:19:00+00:00,2.65,53,20,Run time: 20 minutes,-0.038096965887986,False,0.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-19 05:00:01+00:00,3.7,37,10,Run time: 10 minutes,-0.2972686522723002,False,6.000000000000027,False
+8937140,9,Hut lawn 3  spray heads,2025-06-19 05:11:00+00:00,2.6,26,10,Run time: 10 minutes,-1.5238786355189275,False,-3.0,False
+8865476,1,Drip upper planters area behind shed,2025-06-21 02:00:59+00:00,4.142857142857143,87,21,Run time: 21 minutes,-0.4082482904638644,False,0.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-21 02:22:59+00:00,3.5833333333333335,43,12,Run time: 12 minutes,-0.3986102382742208,False,-1.0,False
+8936985,3,Pool drip / North,2025-06-21 02:35:59+00:00,2.8666666666666667,43,15,Run time: 15 minutes,-0.2320874169002864,False,0.0,False
+8937002,4,Pool Drip house side,2025-06-21 02:51:59+00:00,6.0,90,15,Run time: 15 minutes,-0.1571194462062954,False,0.0,False
+8937129,5,Lawn top to driveway South / front street drip,2025-06-21 03:07:59+00:00,5.523809523809524,116,21,Run time: 21 minutes,1.1172679496131996,False,2.2500000000000187,False
+8937132,6,Lawn front yard North half / Inside street side,2025-06-21 03:29:59+00:00,7.428571428571429,156,21,Run time: 21 minutes,0.3535533905932654,False,0.0,False
+8937135,7,House Garage Side,2025-06-21 03:51:59+00:00,4.809523809523809,101,21,Run time: 21 minutes,0.7778174593051986,False,1.0,False
+8937139,8,drip house south side / South Driveway,2025-06-21 04:13:59+00:00,7.523809523809524,158,21,Run time: 21 minutes,1.4420029901404918,False,4.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-21 04:36:00+00:00,2.6666666666666665,40,15,Run time: 15 minutes,0.4571635906556611,False,1.0,False
+9269772,10,pool refill / blue cable,2025-06-21 06:40:06+00:00,8.833333333333334,530,60,Run time: 1 hour,0.3779644730092092,False,0.0,False
+8865476,1,Drip upper planters area behind shed,2025-06-24 02:01:02+00:00,4.142857142857143,116,28,Run time: 28 minutes,-0.4082482904638644,False,0.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-24 02:30:00+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
+8936985,3,Pool drip / North,2025-06-24 02:41:01+00:00,2.75,55,20,Run time: 20 minutes,-1.098547106661356,False,-1.7499999999999951,False
+8937002,4,Pool Drip house side,2025-06-24 03:02:02+00:00,6.0,120,20,Run time: 20 minutes,-0.1571194462062954,False,0.0,False
+8937129,5,Lawn top to driveway South / front street drip,2025-06-24 03:22:59+00:00,5.464285714285714,153,28,Run time: 28 minutes,-0.5379438275915451,False,-0.2499999999999813,False
+8937132,6,Lawn front yard North half / Inside street side,2025-06-24 03:52:01+00:00,7.392857142857143,207,28,Run time: 28 minutes,-2.4748737341529283,False,0.0,False
+8937135,7,House Garage Side,2025-06-24 04:21:00+00:00,4.75,133,28,Run time: 28 minutes,-2.050609665440997,False,-4.0,False
+8937139,8,drip house south side / South Driveway,2025-06-24 04:50:00+00:00,7.464285714285714,209,28,Run time: 28 minutes,-0.8652017940843157,False,-1.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-24 05:19:00+00:00,2.65,53,20,Run time: 20 minutes,-0.038096965887986,False,0.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-26 05:00:00+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-26 05:11:00+00:00,2.6,26,10,Run time: 10 minutes,-1.5238786355189275,False,-3.0,False
+8865476,1,Drip upper planters area behind shed,2025-06-28 02:01:00+00:00,4.190476190476191,88,21,Run time: 21 minutes,1.2247448713915932,False,2.6666666666666665,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-28 02:23:00+00:00,6.083333333333333,73,12,Run time: 12 minutes,1.7729951760526466,False,149.0000000000005,True
+8936985,3,Pool drip / North,2025-06-28 02:36:00+00:00,2.8666666666666667,43,15,Run time: 15 minutes,-0.2320874169002864,False,0.0,False
+8937002,4,Pool Drip house side,2025-06-28 02:51:58+00:00,6.0,90,15,Run time: 15 minutes,-0.1571194462062954,False,0.0,False
+8937129,5,Lawn top to driveway South / front street drip,2025-06-28 03:07:58+00:00,5.523809523809524,116,21,Run time: 21 minutes,1.1172679496131996,False,2.2500000000000187,False
+8937132,6,Lawn front yard North half / Inside street side,2025-06-28 03:29:59+00:00,7.428571428571429,156,21,Run time: 21 minutes,0.3535533905932654,False,0.0,False
+8937135,7,House Garage Side,2025-06-28 03:51:59+00:00,4.809523809523809,101,21,Run time: 21 minutes,0.7778174593051986,False,1.0,False
+8937139,8,drip house south side / South Driveway,2025-06-28 04:13:59+00:00,7.476190476190476,157,21,Run time: 21 minutes,-0.4037608372393542,False,0.0,False
+8937140,9,Hut lawn 3  spray heads,2025-06-28 04:35:58+00:00,2.6666666666666665,40,15,Run time: 15 minutes,0.4571635906556611,False,1.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-30 17:42:26+00:00,7.5,15,2,Run time: 2 minutes,3.0035715775045384,True,234.0000000000008,True
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-06-30 17:46:34+00:00,3.5,35,10,Run time: 10 minutes,-0.4709970854184498,False,-6.000000000000027,False
+8865476,1,Drip upper planters area behind shed,2025-07-01 02:01:00+00:00,4.178571428571429,117,28,Run time: 28 minutes,0.8164965809277288,False,2.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-07-01 02:30:01+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
+8936985,3,Pool drip / North,2025-07-01 02:40:59+00:00,2.8,56,20,Run time: 20 minutes,-0.7272072396208991,False,-1.0,False
+8937002,4,Pool Drip house side,2025-07-01 03:02:00+00:00,6.0,120,20,Run time: 20 minutes,-0.1571194462062954,False,0.0,False
+8937129,5,Lawn top to driveway South / front street drip,2025-07-01 03:23:02+00:00,5.428571428571429,152,28,Run time: 28 minutes,-1.5310708939143922,False,-1.7499999999999811,False
+8937132,6,Lawn front yard North half / Inside street side,2025-07-01 03:51:59+00:00,7.428571428571429,208,28,Run time: 28 minutes,0.3535533905932654,False,0.0,False
+8937135,7,House Garage Side,2025-07-01 04:21:01+00:00,4.785714285714286,134,28,Run time: 28 minutes,-0.3535533905932798,False,-1.0,False
+8937139,8,drip house south side / South Driveway,2025-07-01 04:49:59+00:00,7.464285714285714,209,28,Run time: 28 minutes,-0.8652017940843157,False,-1.0,False
+8937140,9,Hut lawn 3  spray heads,2025-07-01 05:19:01+00:00,2.65,53,20,Run time: 20 minutes,-0.038096965887986,False,0.0,False
+8936631,2,Drip northside property line pool street side/ future behind pool,2025-07-03 05:00:01+00:00,3.6,36,10,Run time: 10 minutes,-0.384132868845375,False,0.0,False
+8937140,9,Hut lawn 3  spray heads,2025-07-03 05:11:01+00:00,2.7,27,10,Run time: 10 minutes,1.4476847037429683,False,3.000000000000026,False
