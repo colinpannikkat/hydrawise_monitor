@@ -48,7 +48,7 @@ class Monitor:
         return (zone_num, zone_name) if zone_num != "" else (0, zone_name)
 
     @staticmethod
-    def _parse_flow_data_response(response: dict) -> pd.DataFrame:
+    def _parse_flow_data_response(response: dict) -> tuple[pd.DataFrame, dict[str, int]]:
         results = response["data"]["controller"]["reporting"]["chartType"]["results"]
         zones = response["data"]['controller']["zones"]
 
@@ -113,7 +113,7 @@ class Monitor:
         controller_id,
         start_day: datetime = None,
         end_day: datetime = None
-    ):
+    ) -> pd.DataFrame:
 
         assert self.auth is not None
 
@@ -152,19 +152,19 @@ class Monitor:
 
     def find_outliers(self, data: pd.DataFrame) -> pd.DataFrame:
 
-        mean = data.groupby('zone')['gpm'].mean()
-        median = data.groupby('zone')['gpm'].median()
-        stddev = data.groupby('zone')['gpm'].std()
+        mean = data.groupby('zone_id')['gpm'].mean()
+        median = data.groupby('zone_id')['gpm'].median()
+        stddev = data.groupby('zone_id')['gpm'].std()
 
-        data['std_z-score'] = (data['gpm'] - data['zone'].map(mean)) / data['zone'].map(stddev)
+        data['std_z-score'] = (data['gpm'] - data['zone_id'].map(mean)) / data['zone_id'].map(stddev)
         data['outlier_std'] = data['std_z-score'] > self.std_threshold
 
-        mad = data.groupby('zone')['gpm'].apply(lambda x: (x - x.median()).abs().median())
+        mad = data.groupby('zone_id')['gpm'].apply(lambda x: (x - x.median()).abs().median())
 
         def mad_zscore(row):
-            zone = row['zone']
-            median_val = median[zone]
-            mad_val = mad[zone]
+            zone_id = row['zone_id']
+            median_val = median.loc[zone_id]
+            mad_val = mad.loc[zone_id]
             if mad_val == 0:  # Avoid divide-by-zero
                 return 0
             return (row['gpm'] - median_val) / mad_val
